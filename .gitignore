@@ -113,7 +113,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Folder .env
 send_mail/.env
+port_scanner/.env
+web_scraper/.env
 
 # Spyder project settings
 .spyderproject
